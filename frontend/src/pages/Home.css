@@ -1,0 +1,29 @@
+.hero-section {
+  background: linear-gradient(135deg, #0b5ed7, #007bff);
+}
+
+.features-section {
+  background: #f8f9fa;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.cta-section {
+  background: linear-gradient(135deg, #007bff, #00a2ff);
+}
+
+.footer-section {
+  background: #0b1a2a;
+}
+
+.footer-link {
+  color: #ccc;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: white;
+}
